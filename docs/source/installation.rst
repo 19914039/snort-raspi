@@ -3,6 +3,6 @@ Installation
 .. dependencies:
 Dependencies
 ----------
-..source directory:
+.. source directory:
 Source directory
 ----------
