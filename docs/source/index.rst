@@ -15,9 +15,9 @@ Contents
 
 .. toctree::
 
-   Introduction
-   Installation      
-   Configur
-   Testing
-   Alert on ping
-   Alert on unix socket
+   introduction
+   installation      
+   configuration
+   testing
+   ping
+   unix_socket
