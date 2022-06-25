@@ -17,7 +17,7 @@ Contents
 
    introduction
    installation      
-   configuration
+   configure
    testing
    ping
    unix_socket
